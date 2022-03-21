@@ -7,7 +7,7 @@ and nobody even used it lol <br>
 I tried to promote it in study groups on Facebook and no one accepted it even though it was very helpful to 5th graders.<br>
 Regardless, many of my friends and family supported me on this project, and that's enough for me! :)<br>
 
-please when you host this site on your own server please mention me on it, Thanks!<br>
+when you host this site on your own server please mention me on it, Thanks!<br>
 
 contact me on: <br>
 <a href="https://instagram.com/uvr.z">Instagram</a>
