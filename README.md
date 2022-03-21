@@ -1,5 +1,5 @@
 # QuantumNumbersCalculator
-php algorithm used to calculate qnumtum numbers using the atomic number.
+php algorithm used to calculate quantum numbers using the atomic number.
 
 I converted the php algorithm to javascript in the <a href="https://github.com/SamerAlabdaly/QuantumNumbersCalculatorV2">2nd version</a> because if there is too much pressure on the server it might stop working (goes down).
 
